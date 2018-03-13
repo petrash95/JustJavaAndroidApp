@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Nur Java "</string>
+    <string name="toppings">Toppings</string>
+    <string name="thank_you">"Vielen Dank! "</string>
+    <string name="total">Summe: $</string>
+    <string name="quantity_of">"Menge: "</string>
+    <string name="add_a_chocolate">Fügen Sie eine Schokolade hinzu:</string>
+    <string name="add_whipped_cream">Schlagsahne hinzufügen:</string>
+    <string name="order_summary_name">Name:</string>
+</resources>

@@ -1,0 +1,37 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <!--header field for the list of toppings [CHAR LIMIT=20} -->
+    <string name="toppings">Toppings</string>
+
+    <!--Thank you field [CHAR LIMIT=NONE} -->
+    <string name="thank_you">Thank you!</string>
+
+    <!--Total: field [CHAR LIMIT=NONE} -->
+    <string name="total">Total: $</string>
+
+    <!--Total: field [CHAR LIMIT=NONE} -->
+    <string name="quantity_of">Quantity:</string>
+
+    <!--Total: field [CHAR LIMIT=NONE} -->
+    <string name="add_a_chocolate">Add a chocolate:</string>
+
+    <!--Total: field [CHAR LIMIT=NONE} -->
+    <string name="add_whipped_cream">Add whipped cream:</string>
+
+    <!--Total: field [CHAR LIMIT=NONE} -->
+    <string name="order_all_summary_name">Name:<xliff:g id="name" example="Amy">%s</xliff:g></string>
+
+    <!--Total: field [CHAR LIMIT=NONE} -->
+    <string name="order">ORDER:</string>
+
+    <!--Total: field [CHAR LIMIT=NONE} -->
+    <string name="quantity">QUANTITY:</string>
+
+    <!--Total: field [CHAR LIMIT=NONE} -->
+    <string name="chocolate">Chocolate:</string>
+
+    <!--Total: field [CHAR LIMIT=NONE} -->
+    <string name="order_summary_price">Price:<xliff:g id="price" example="$10">%s</xliff:g></string>
+
+
+</resources>
